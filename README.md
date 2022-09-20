@@ -31,4 +31,11 @@ tests: A directory of tests used by ok
 
 gui_files: A directory of various things used by the web GUI
 
+## Contact
+Author: Kechen Liu
+
+Email: kechenkristin@gamil.com
+
+Project Link: https://github.com/kechenkristin/hog-game
+
 
