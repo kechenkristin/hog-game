@@ -3,6 +3,10 @@ This is a hog game, inspired by UBC 2020 fall's first project. https://inst.eecs
 
 I am in charge of the implementation of back-end logic.
 
+Passed all the test cases of ok server.
+![avatar](https://github.com/kechenkristin/imagesGitHub/blob/main/projects/CS61A/hog_grade.png)
+
+
 ## Rules
 In Hog, two players alternate turns trying to be the first to end a turn with at least 100 total points. On each turn, the current player chooses some number of dice to roll, up to 10. That player's score for the turn is the sum of the dice outcomes. However, a player who rolls too many dice risks:
 
@@ -30,6 +34,14 @@ ok: CS 61A autograder
 tests: A directory of tests used by ok
 
 gui_files: A directory of various things used by the web GUI
+
+## Usage
+download the package and type
+  python3 hog_gui.py 
+
+![avatar](https://github.com/kechenkristin/imagesGitHub/blob/main/projects/CS61A/hog.png)
+
+
 
 ## Contact
 Author: Kechen Liu
